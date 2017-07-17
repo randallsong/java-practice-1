@@ -1,0 +1,20 @@
+#argument1{
+	display: inline;
+	background-color: red;
+
+}
+
+#argument2{
+	display: inline;
+	background-color: blue;
+	color: white;
+
+}
+
+#hover{
+	width: 500px;
+	height: 500px;
+	display: block;
+	position: relative;
+	background-color: pink;
+}
